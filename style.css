@@ -77,6 +77,10 @@ h1 {
     font-size: 0.9rem;
 }
 
+.text {
+    font-size: 1.5rem;
+}
+
 #container-input-number {
     display: flex;
     flex-direction: column;
